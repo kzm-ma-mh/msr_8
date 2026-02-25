@@ -1,0 +1,51 @@
+              ┌─────────────────────┐
+              │   Search GitHub     │
+              │ keyword + language  │
+              │ + stars filter      │
+              └────────┬────────────┘
+                       │
+              ┌────────▼────────────┐
+              │  For each result    │
+              │  (up to MAX_SCAN)   │
+              └────────┬────────────┘
+                       │
+              ┌────────▼────────────┐
+              │  Already checked?   │──── Yes ──→ Skip
+              └────────┬────────────┘
+                       │ No
+              ┌────────▼────────────┐
+              │  Pre-filter:        │
+              │  open_issues > 0 ?  │──── No ──→ Reject
+              └────────┬────────────┘
+                       │ Yes
+         ┌─────────────▼─────────────────┐
+         │     VALIDATION (4 checks)      │
+         ├────────────────────────────────┤
+         │ ✅ README exists?              │── No → Reject (stop early)
+         │ ✅ Issues ≥ MIN_REQUIRED?      │── No → Reject
+         │ ✅ PRs ≥ MIN_REQUIRED?         │── No → Reject
+         │ ✅ Code files ≥ MIN_REQUIRED?  │── No → Reject
+         └─────────────┬─────────────────┘
+                       │ All pass
+              ┌────────▼────────────┐
+              │  ✅ TRAINING READY  │
+              │  Save to DB         │
+              └────────┬────────────┘
+                       │
+              ┌────────▼────────────┐
+              │  EXTRACT ALL:       │
+              │  📄 README (full)   │
+              │  🐛 Issues + Cmts   │
+              │  🔀 PRs + Diffs     │
+              │  💻 Code files      │
+              └────────┬────────────┘
+                       │
+              ┌────────▼────────────┐
+              │  Reached target     │
+              │  per keyword?       │──── No ──→ Next result
+              └────────┬────────────┘
+                       │ Yes
+              ┌────────▼────────────┐
+              │  MIGRATE to Gitea   │
+              │  (with full history)│
+              └─────────────────────┘
