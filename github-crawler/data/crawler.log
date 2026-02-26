@@ -1,0 +1,99 @@
+2026-02-25 23:46:43 | INFO     | github_crawler | 📊 Rate Limit — Core: 49989/50000 | Search: 30/30
+2026-02-25 23:47:10 | INFO     | github_crawler | 
+============================================================
+2026-02-25 23:47:10 | INFO     | github_crawler | 🎯 مخزن: [bold cyan]ShishirPatil/gorilla[/]
+2026-02-25 23:47:10 | INFO     | github_crawler | 🏢 مقصد: [bold]github-mirror/gorilla[/]
+2026-02-25 23:47:10 | INFO     | github_crawler | ============================================================
+2026-02-25 23:47:42 | INFO     | github_crawler | 🎯 مخزن: ShishirPatil/gorilla
+2026-02-25 23:47:42 | INFO     | github_crawler | 🏢 مقصد: github-mirror/gorilla
+2026-02-25 23:54:47 | INFO     | github_crawler | 
+============================================================
+2026-02-25 23:54:47 | INFO     | github_crawler | 🎯 مخزن: [bold cyan]ShishirPatil/gorilla[/]
+2026-02-25 23:54:47 | INFO     | github_crawler | 🏢 مقصد: [bold]github-mirror/gorilla[/]
+2026-02-25 23:54:47 | INFO     | github_crawler | ============================================================
+2026-02-25 23:54:47 | INFO     | github_crawler | ✅ Gitea: [bold green]gitea[/]
+2026-02-25 23:54:47 | INFO     | github_crawler | ✅ Organization: [bold green]github-mirror[/]
+2026-02-25 23:54:47 | INFO     | github_crawler | 
+📡 دریافت اطلاعات...
+2026-02-25 23:54:48 | INFO     | github_crawler |    ⭐ 12732 ستاره
+2026-02-25 23:54:48 | INFO     | github_crawler |    🔤 Python
+2026-02-25 23:54:48 | INFO     | github_crawler |    📝 Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
+2026-02-25 23:54:48 | INFO     | github_crawler | 
+==================================================
+2026-02-25 23:54:48 | INFO     | github_crawler | 📦 مرحله ۱: انتقال کد + تاریخچه
+2026-02-25 23:54:48 | INFO     | github_crawler | ==================================================
+2026-02-25 23:54:48 | INFO     | github_crawler | 📦 روش ۱: Migration مستقیم...
+2026-02-25 23:55:12 | INFO     | github_crawler | ✅ کد منتقل شد
+2026-02-25 23:55:17 | INFO     | github_crawler | 
+==================================================
+2026-02-25 23:55:17 | INFO     | github_crawler | 🏷️ مرحله ۲: Labels
+2026-02-25 23:55:17 | INFO     | github_crawler | ==================================================
+2026-02-25 23:55:17 | INFO     | github_crawler | 🏷️ انتقال Labels...
+2026-02-25 23:55:21 | INFO     | github_crawler |    ✅ 19 label
+2026-02-25 23:55:21 | INFO     | github_crawler | 
+==================================================
+2026-02-25 23:55:21 | INFO     | github_crawler | 🐛 مرحله ۳: Issues
+2026-02-25 23:55:21 | INFO     | github_crawler | ==================================================
+2026-02-25 23:55:21 | INFO     | github_crawler | 🐛 انتقال Issues (max 500)...
+2026-02-25 23:55:46 | INFO     | github_crawler |    📊 Issues: 20
+2026-02-25 23:56:13 | INFO     | github_crawler |    📊 Issues: 40
+2026-02-25 23:56:39 | INFO     | github_crawler |    📊 Issues: 60
+2026-02-25 23:56:59 | INFO     | github_crawler |    📊 Issues: 80
+2026-02-25 23:57:28 | INFO     | github_crawler |    📊 Issues: 100
+2026-02-25 23:57:52 | INFO     | github_crawler |    📊 Issues: 120
+2026-02-25 23:58:14 | INFO     | github_crawler |    📊 Issues: 140
+2026-02-25 23:58:39 | INFO     | github_crawler |    📊 Issues: 160
+2026-02-25 23:59:03 | INFO     | github_crawler |    📊 Issues: 180
+2026-02-25 23:59:35 | INFO     | github_crawler |    📊 Issues: 200
+2026-02-25 23:59:58 | INFO     | github_crawler |    📊 Issues: 220
+2026-02-26 00:00:30 | INFO     | github_crawler |    📊 Issues: 240
+2026-02-26 00:01:03 | INFO     | github_crawler |    📊 Issues: 260
+2026-02-26 00:01:32 | INFO     | github_crawler |    📊 Issues: 280
+2026-02-26 00:01:57 | INFO     | github_crawler |    📊 Issues: 300
+2026-02-26 00:02:26 | INFO     | github_crawler |    📊 Issues: 320
+2026-02-26 00:02:53 | INFO     | github_crawler |    📊 Issues: 340
+2026-02-26 00:03:15 | INFO     | github_crawler |    📊 Issues: 360
+2026-02-26 00:03:39 | INFO     | github_crawler |    📊 Issues: 380
+2026-02-26 00:04:01 | INFO     | github_crawler |    📊 Issues: 400
+2026-02-26 00:04:23 | INFO     | github_crawler |    📊 Issues: 420
+2026-02-26 00:04:38 | INFO     | github_crawler |    📊 Issues: 440
+2026-02-26 00:04:41 | INFO     | github_crawler |    ✅ 441 Issue
+2026-02-26 00:04:41 | INFO     | github_crawler | 
+==================================================
+2026-02-26 00:04:41 | INFO     | github_crawler | 🔀 مرحله ۴: Pull Requests
+2026-02-26 00:04:41 | INFO     | github_crawler | ==================================================
+2026-02-26 00:04:41 | INFO     | github_crawler | 🔀 انتقال Pull Requests (max 500)...
+2026-02-26 00:05:29 | INFO     | github_crawler |    📊 PRs: 20
+2026-02-26 00:06:19 | INFO     | github_crawler |    📊 PRs: 40
+2026-02-26 00:07:07 | INFO     | github_crawler |    📊 PRs: 60
+2026-02-26 00:07:54 | INFO     | github_crawler |    📊 PRs: 80
+2026-02-26 00:08:41 | INFO     | github_crawler |    📊 PRs: 100
+2026-02-26 00:09:27 | INFO     | github_crawler |    📊 PRs: 120
+2026-02-26 00:10:15 | INFO     | github_crawler |    📊 PRs: 140
+2026-02-26 00:11:00 | INFO     | github_crawler |    📊 PRs: 160
+2026-02-26 00:11:44 | INFO     | github_crawler |    📊 PRs: 180
+2026-02-26 00:12:33 | INFO     | github_crawler |    📊 PRs: 200
+2026-02-26 00:13:19 | INFO     | github_crawler |    📊 PRs: 220
+2026-02-26 00:14:04 | INFO     | github_crawler |    📊 PRs: 240
+2026-02-26 00:14:52 | INFO     | github_crawler |    📊 PRs: 260
+2026-02-26 00:15:41 | INFO     | github_crawler |    📊 PRs: 280
+2026-02-26 00:16:30 | INFO     | github_crawler |    📊 PRs: 300
+2026-02-26 00:17:21 | INFO     | github_crawler |    📊 PRs: 320
+2026-02-26 00:18:12 | INFO     | github_crawler |    📊 PRs: 340
+2026-02-26 00:19:03 | INFO     | github_crawler |    📊 PRs: 360
+2026-02-26 00:19:56 | INFO     | github_crawler |    📊 PRs: 380
+2026-02-26 00:20:48 | INFO     | github_crawler |    📊 PRs: 400
+2026-02-26 00:21:37 | INFO     | github_crawler |    📊 PRs: 420
+2026-02-26 00:22:27 | INFO     | github_crawler |    📊 PRs: 440
+2026-02-26 00:23:18 | INFO     | github_crawler |    📊 PRs: 460
+2026-02-26 00:24:08 | INFO     | github_crawler |    📊 PRs: 480
+2026-02-26 00:24:58 | INFO     | github_crawler |    📊 PRs: 500
+2026-02-26 00:25:00 | INFO     | github_crawler |    ✅ 500 PR
+2026-02-26 00:25:00 | INFO     | github_crawler | 
+============================================================
+2026-02-26 00:25:00 | INFO     | github_crawler | 🎉 [bold green]کامل شد![/]
+2026-02-26 00:25:00 | INFO     | github_crawler |    🏷️  Labels: 19
+2026-02-26 00:25:00 | INFO     | github_crawler |    🐛 Issues: 441
+2026-02-26 00:25:00 | INFO     | github_crawler |    🔀 PRs:    500
+2026-02-26 00:25:00 | INFO     | github_crawler |    🔗 http://localhost:3000/github-mirror/gorilla
+2026-02-26 00:25:00 | INFO     | github_crawler | ============================================================

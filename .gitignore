@@ -1,2 +1,3 @@
 github-crawler/gitea/
 github-crawler/.env
+__pycache__
